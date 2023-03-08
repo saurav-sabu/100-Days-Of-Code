@@ -21,3 +21,19 @@
 17. Python Program to Find the Sum of the Series 1/1!+1/2!+1/3!+…1/N!
 18. Python Program to Find the Sum of the Series: 1 + x^2/2 + x^3/3 + … x^n/n
 
+
+#### Day 2 Contents:
+
+1. Python Program to Find the Largest Among Three Numbers
+2. Python Program to Check Prime Number
+3. Python Program to Print all Prime Numbers in an Interval
+4. Python Program to Check 3 digit Armstrong Number
+5. Python Program to Find 3 digit Armstrong Number in an Interval
+6. Python Program to Find ASCII Value of Character
+7. Python Program to Remove Duplicate Element From a List
+8. Python Program to Count the Number of Digits Present In a Number
+9. Python Program to Reverse a Number
+10. Python Program to Trim Whitespace From a String
+11. Python Program to Get the File Name From the File Path
+12. Python Program to Make a Simple Calculator
+13. Python Program to Concatenate Two Lists
