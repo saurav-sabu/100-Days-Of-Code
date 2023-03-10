@@ -51,3 +51,21 @@
 8. Python Program to Count the Number of Digits and Letters in a String
 9. Python Program to Replace Every Blank Space with Hyphen in a String
 10. Python Program to Get the Last Element of the List
+
+#### Day 4 Contents:
+
+1. Python Program to Remove Odd Indexed Characters in a string
+2. Python Program to Remove the nth Index Character from a Non-Empty String
+3. Python Program to Replace All Occurrences of ‘a’ with $ in a String
+4. Python Program to Count the Number of Words and Characters in a String
+5. Python Program to Count the Number of Vowels in a String
+6. Python Program to Count Number of Uppercase and Lowercase Letters in a String
+7. Python Program to Check if the Substring is Present in the Given String
+8. Python Program to Find Common Characters in Two Strings
+9. Python Program to Print All Letters Present in Both Strings
+10. Python Program that Displays which Letters are in First String but not in Second
+11. Python Program that Displays Letters that are not Common in Two Strings
+12. Python Program to Create a New String Made up of First and Last 2 Characters
+13. Python Program to Swap the First and the Last Character of a String
+14. Python Program to Sort Hyphen Separated Sequence of Words in Alphabetical Order
+15. Python Program to Count the Occurrences of Each Word in a String
