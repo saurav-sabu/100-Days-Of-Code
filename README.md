@@ -37,3 +37,17 @@
 11. Python Program to Get the File Name From the File Path
 12. Python Program to Make a Simple Calculator
 13. Python Program to Concatenate Two Lists
+
+
+#### Day 3 Contents:
+
+1. Python Program to Print Output Without a Newline
+2. Python Program to Check If a String Is a Number (Float)
+3. Python Program to Find Simple Interest
+4. Python Program to Find Quotient and Remainder of Two Numbers
+5. Python Program to Find the Gravitational Force between Two Objects
+6. Python Program to Find the Length of a String without Library Function
+7. Python Program to Count Number of Lowercase Characters in a String
+8. Python Program to Count the Number of Digits and Letters in a String
+9. Python Program to Replace Every Blank Space with Hyphen in a String
+10. Python Program to Get the Last Element of the List
