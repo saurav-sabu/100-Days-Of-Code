@@ -69,3 +69,14 @@
 13. Python Program to Swap the First and the Last Character of a String
 14. Python Program to Sort Hyphen Separated Sequence of Words in Alphabetical Order
 15. Python Program to Count the Occurrences of Each Word in a String
+
+#### Day 5 Contents:
+
+1. Python Program to Sort Words in Alphabetic Order
+2. Python Program to Access Index of a List Using for Loop
+3. Python Program to Check if a Key is Already Present in a Dictionary
+4. Python Program to Iterate Over Dictionaries Using for Loop
+5. Python Program to Convert Decimal to Binary, Octal and Hexadecimal
+6. Python Program to Convert Two Lists Into a Dictionary
+7. Python Program to Merge Two Dictionaries
+
