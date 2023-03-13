@@ -89,3 +89,10 @@
 5. Python Program to Read a Number n and Compute n+nn+nnn
 6. Python Program to Convert Centimeters to Feet and Inches
 
+#### Day 7 Contents:
+
+1. Python Program to Find All the Divisors of an Integer
+2. Python Program to Find the Smallest Divisor of an Integer
+3. Python Program to Check If Two Numbers are Amicable Numbers or Not
+4. Python Program to Check Whether a Given Number is Perfect Number
+5. Python Program to Find the GCD of Two Numbers
