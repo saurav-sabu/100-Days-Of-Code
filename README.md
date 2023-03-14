@@ -96,3 +96,13 @@
 3. Python Program to Check If Two Numbers are Amicable Numbers or Not
 4. Python Program to Check Whether a Given Number is Perfect Number
 5. Python Program to Find the GCD of Two Numbers
+
+#### Day 8 Contents:
+
+1. Python Program to Find Largest Number in a List
+2. Python Program to Find Second Largest Number in a List
+3. Python Program to Split Even and Odd Elements into Two Lists
+4. Python Program to Find Average of a List
+5. Python Program to Print Sum of Negative Numbers, Positive Even & Odd Numbers in a List
+6. Python Program to Count Occurrences of Element in List
+7. Python Program to Return the Length of the Longest Word from the List of Words
