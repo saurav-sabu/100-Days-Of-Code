@@ -106,3 +106,7 @@
 5. Python Program to Print Sum of Negative Numbers, Positive Even & Odd Numbers in a List
 6. Python Program to Count Occurrences of Element in List
 7. Python Program to Return the Length of the Longest Word from the List of Words
+
+#### Day 9 Contents:
+
+1. Python Program to Find Numbers which are Divisible by 7 and Multiple of 5 in a Given Range
