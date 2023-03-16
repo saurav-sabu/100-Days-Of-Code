@@ -110,3 +110,7 @@
 #### Day 9 Contents:
 
 1. Python Program to Find Numbers which are Divisible by 7 and Multiple of 5 in a Given Range
+
+#### Day 10 Contents:
+
+1. Python Program to find LCM of two numbers
