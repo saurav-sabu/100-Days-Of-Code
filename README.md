@@ -118,3 +118,7 @@
 #### Day 11 Contents:
 
 1. Python Program to print Fibonacci Series
+
+#### Day 12 Contents:
+
+1. Python Program to Find the Factorial of a Number using Recursion
