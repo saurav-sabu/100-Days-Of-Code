@@ -131,3 +131,13 @@
 #### Day 14 Contents:
 
 1. Python Program to Print an Identity Matrix
+
+#### Day 15 Contents:
+
+1. Python Program to print half pyramid using *
+
+*
+* *
+* * *
+* * * *
+* * * * *
