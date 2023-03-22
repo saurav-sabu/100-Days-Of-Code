@@ -141,3 +141,13 @@
 * * *
 * * * *
 * * * * *
+
+#### Day 16 Contents:
+
+1. Python Program to print half pyramid a using numbers
+
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
