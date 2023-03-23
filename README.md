@@ -151,3 +151,13 @@
 1 2 3
 1 2 3 4
 1 2 3 4 5
+
+#### Day 17 Contents:
+
+1. Python Program to print Inverted half pyramid using *
+
+* * * * *
+* * * *
+* * *
+* *
+* 
