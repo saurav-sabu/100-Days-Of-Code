@@ -171,3 +171,8 @@
 1 2 3
 1 2
 1
+
+#### Day 19 Contents:
+
+1. Python Program to Iterate Through Two Lists in Parallel
+
