@@ -176,3 +176,7 @@
 
 1. Python Program to Iterate Through Two Lists in Parallel
 
+#### Day 20 Contents:
+
+1. Python Program to Delete an Element From a Dictionary
+
