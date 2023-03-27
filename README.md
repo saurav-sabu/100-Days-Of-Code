@@ -180,3 +180,7 @@
 
 1. Python Program to Delete an Element From a Dictionary
 
+#### Day 21 Contents:
+
+1. Python Program to Flatten a Nested List
+
