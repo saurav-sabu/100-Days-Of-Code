@@ -184,3 +184,7 @@
 
 1. Python Program to Flatten a Nested List
 
+#### Day 22 Contents:
+
+1. Python Program to Get Line Count of a File
+
