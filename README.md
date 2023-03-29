@@ -188,3 +188,7 @@
 
 1. Python Program to Get Line Count of a File
 
+#### Day 23 Contents:
+
+1. Python Program Read a File Line by Line Into a List
+
